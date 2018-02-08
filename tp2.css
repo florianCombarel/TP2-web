@@ -1,0 +1,7 @@
+.thumbnail{
+	color: black;
+}
+
+.thumbnail:hover{
+	color: white;
+}
